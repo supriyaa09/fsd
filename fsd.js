@@ -13,3 +13,6 @@ age = 25;
 console.log("Name:", firstName);
 console.log("Age:", age);
 console.log("Is Student:", isStudent);
+
+info=true;
+console.log(typeof info);
