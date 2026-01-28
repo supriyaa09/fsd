@@ -35,4 +35,5 @@ console.log("Type of phoneNumber:", typeof phoneNumber);
 // 3. confirm 
 //4. //prompt
 //alert("Welcome to JavaScript Programming!");
-//confirm("Do you want to continue?");//cancel/
+//confirm("Do you want to continue?");//cancel/ok
+
