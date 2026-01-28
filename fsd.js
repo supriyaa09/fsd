@@ -16,3 +16,23 @@ console.log("Is Student:", isStudent);
 
 info=true;
 console.log(typeof info);
+console.log(`Hi, my name is ${firstName}, I am ${age} years old.`); 
+
+//undefined
+let address;
+console.log("Address:", address);
+console.log("Type of address:", typeof address);
+
+//null 
+let phoneNumber = null;
+console.log("Phone Number:", phoneNumber);
+console.log("Type of phoneNumber:", typeof phoneNumber);
+
+
+//To show results in the ui :
+// 1.alert
+// 2. print
+// 3. confirm 
+//4. //prompt
+//alert("Welcome to JavaScript Programming!");
+//confirm("Do you want to continue?");//cancel/
